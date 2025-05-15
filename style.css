@@ -22,14 +22,14 @@ ol{
     list-style: upper-roman;
 }
 
-a{
+#styled a{
     font-family : Helvetica, sans-serif;
     text-decoration : none;
     background-color: aquamarine;
     padding : 5px;
 }
 
-a:hover{
+#styled a:hover{
     background-color: aqua;
     color : #ffffff;
 }
